@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\problemaaa.dir/objects.a
-C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\problemaaa.dir/objects.a @CMakeFiles\problemaaa.dir\objects1.rsp
-C:\TDM-GCC-64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\problemaaa.dir/objects.a -Wl,--no-whole-archive  -o problemaaa.exe -Wl,--out-implib,libproblemaaa.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\problemaaa.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/problemaaa.dir/main.cpp.o  -o problemaaa 
